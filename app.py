@@ -5,5 +5,5 @@ class App:
   def hello(self):
     print("Hello " + self.var)
     
-  def get_val():
+  def get_val(self):
     return self.var
